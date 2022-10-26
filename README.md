@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/#FF0000?style=plastic&logo=#FF0000&logoColor=#FF0000"/></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/Click-#FF0000.svg?style=plastic&logo=YouTube&logoColor=#FF0000"/></a>
 
 <!--
 **Nagene1206/Nagene1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
