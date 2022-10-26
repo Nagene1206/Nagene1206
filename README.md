@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/red?&logo=#FF0000&logoColor=red"/></a>
+
 <!--
 **Nagene1206/Nagene1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
